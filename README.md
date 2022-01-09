@@ -266,13 +266,17 @@ def get_content_of_frame10():
 #### 结果  
 ```
 Frame10: will get
+```  
+### 根据已经破译的明文，猜测所有明文为：  
 ```
-### 总结
-#### 心得  
+My secret is a famous saying of Albert Einstein. That is "Logic will get you from A to B. Imagination will take you everywhere."
+```
+## 总结
+### 心得  
 通过这次大作业，我学习了多种针对RSA的攻击方式，比如RSA共模攻击、pollard、低加密指数法、因数碰撞法、Fermat攻击等，了解了他们的原理，对RSA的结构和缺点有了更深入的了解，数论的知识得到了巩固。这次作业让我认识到，再完美的算法，在实现的过程中，稍有疏忽也会导致漏洞的出现。  
-#### 问题
+### 问题
 对于数论的部分知识，有的地方无法深入理解，在查阅课本和资料后，得到了解决  
-### 参考文献
+## 参考文献
 https://blog.csdn.net/qq_31408919/article/details/104917729  
 https://blog.csdn.net/weixin_46395886/article/details/114434642  
 《信息安全数学基础》  
